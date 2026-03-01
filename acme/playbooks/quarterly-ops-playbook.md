@@ -22,6 +22,12 @@ A recurring checklist to plan, execute, and review quarterly operations. Keep th
 - Capture lessons learned and improvements.
 - Archive key documents and decisions.
 
+## Vendor Contacts
+
+| Vendor | Category | Phone |
+|--------|----------|-------|
+| Sunshine Catering Co. | Catering | 999999999 |
+
 ## Closeout & Carryover (Weeks 13–14)
 
 - Finalize carryover scope: confirm what rolls into next quarter vs. gets de-scoped.
